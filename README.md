@@ -10,7 +10,5 @@ Our research question is to determine the 3 covariates with the largest level of
 To address the research question, our objective is to build an inference model that best explains the relationship between the violent 
 crime rate and other covariates based on our existing observations.
 
-## Methods
-Models: linear regression, ridge regression, additive spline models
-Model diagnostics: residual plots, transformations, variance inflation factors
-Model selection and evaluation: evaluated performance using a squared loss function against the test set and measured influence by the difference of a standardized 1 unit increase
+## Tags
+Linear regression, ridge regression, additive spline models, model diagnostics, model selection, model evaluation, interpreting what "level of influence on violent crimes" mean
