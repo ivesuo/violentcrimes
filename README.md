@@ -22,4 +22,4 @@ I built multiple linear regression, ridge regression and additive spline models 
 To assess the level of influence of each covariate, I standardize them and refit the best model with the standardized data. Standardizing the covariates ensures that each one contributes equally to the model and serves as a fair benchmark for comparisons. To measure the level of influence, we examine the magnitude of a one unit increase for each covariate on the response variable. 
 
 ## Tags
-Linear regression, ridge regression, additive spline models, model diagnostics, model selection, model evaluation, interpreting what "level of influence on violent crimes" mean
+Linear regression, ridge regression, generalized additive models, cross validation, spline models, model diagnostics, model selection, model evaluation
